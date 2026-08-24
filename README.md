@@ -15,6 +15,6 @@ To systematically manage, code, and synthesize this large volume of academic lit
 * `literature_synthesis.docx` (or `.md`): The complete 25-paper summary matrix and methodological meta-analysis memo exported directly from ATLAS.ti.
 * `references/`: Documentation listing the NBER working paper titles, authors, and core themes analyzed in this project.
 
-## Key Findings Summary
+## Findings breif
 * **Beyond Representative Agents:** The literature demonstrates that aggregate outcomes are fundamentally driven by micro-level distributional risks, structural frictions, and heterogeneous agent responses.
 * **Methodological Tensions:** A clear trade-off exists between large-scale structural models (capable of simulating long-run climate or spatial paths) and high-frequency empirical models (like Bayesian SVARs and local projections designed to capture immediate monetary and policy shocks).
